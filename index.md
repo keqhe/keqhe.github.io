@@ -2,33 +2,17 @@
 
 I graduated from the Department of Computer Science at the University of Wisconsin-Madison in June, 2017. My advisor was [Prof. Aditya Akella](http://pages.cs.wisc.edu/~akella/). My research areas are computer networks and networked systems.
 
-[Linkedin](https://www.linkedin.com/in/keqiang-he-00837b3a/) | [Google Scholar](https://scholar.google.com/citations?user=AdDzBdUAAAAJ&hl=en) | [Wisc Homepage](http://pages.cs.wisc.edu/~keqhe/)] | [Resume]()
+[[Linkedin](https://www.linkedin.com/in/keqiang-he-00837b3a/)]  [[Google Scholar](https://scholar.google.com/citations?user=AdDzBdUAAAAJ&hl=en)] [[Wisc Homepage](http://pages.cs.wisc.edu/~keqhe/)]]  [[Resume]()]
 
 ### Selected Publications
 
-*Low Latency Software Rate Limiters for Cloud Networks
+**Low Latency Software Rate Limiters for Cloud Networks**
  Keqiang He, Weite Qin, Qiwei Zhang, Wenfei Wu, Junjie Yang, Tian Pan, Chengchen Hu, Jiao Zhang, Brent Stephens, Aditya Akella and Ying Zhang.
 In Proceedings of APNet'17, Hong Kong, China, August 2017.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
