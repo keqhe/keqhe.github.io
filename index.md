@@ -2,8 +2,8 @@
 
 I graduated from the Department of Computer Science at the University of Wisconsin-Madison in June, 2017. My advisor was [Prof. Aditya Akella](http://pages.cs.wisc.edu/~akella/). My research areas are computer networks and networked systems.
 
-[Linkedin](https://www.linkedin.com/in/keqiang-he-00837b3a/) [Google Scholar](https://scholar.google.com/citations?user=AdDzBdUAAAAJ&hl=en)
-[Wisc Homepage](http://pages.cs.wisc.edu/~keqhe/) [Resume]()
+[[Linkedin](https://www.linkedin.com/in/keqiang-he-00837b3a/)] [[Google Scholar](https://scholar.google.com/citations?user=AdDzBdUAAAAJ&hl=en)]
+][Wisc Homepage](http://pages.cs.wisc.edu/~keqhe/)] [[Resume]()]
 
 ### Markdown
 
