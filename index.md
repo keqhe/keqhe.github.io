@@ -7,11 +7,20 @@ I graduated from the Department of Computer Science at the University of Wiscons
 ### Selected Publications
 
 **Low Latency Software Rate Limiters for Cloud Networks**
- Keqiang He, Weite Qin, Qiwei Zhang, Wenfei Wu, Junjie Yang, Tian Pan, Chengchen Hu, Jiao Zhang, Brent Stephens, Aditya Akella and Ying Zhang.
-In Proceedings of APNet'17, Hong Kong, China, August 2017.
 
-```markdown
-Syntax highlighted code block
+Keqiang He, Weite Qin, Qiwei Zhang, Wenfei Wu, Junjie Yang, Tian Pan, Chengchen Hu, Jiao Zhang, Brent Stephens, Aditya Akella and Ying Zhang.
+
+In Proceedings of [APNet'17](http://conferences.sigcomm.org/events/apnet2017/), Hong Kong, China, August 2017.
+
+**Improving Datacenter Network Performance via Intelligent Network Edge**
+
+Keqiang He, University of Wisconsin-Madison, June 2017.
+
+**AC/DC TCP: Virtual Congestion Control Enforcement for Datacenter Networks**
+
+Keqiang He, Eric Rozner, Kanak Agarwal, Yu (Jason) Gu, Wes Felter, John Carter and Aditya Akella.
+
+In Proceedings of [ACM SIGCOMM'16](http://conferences.sigcomm.org/sigcomm/2016/), Florianopolis, Brazil, August 2016.
 
 
 ### Jekyll Themes
