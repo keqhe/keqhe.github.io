@@ -66,21 +66,21 @@ In Proceedings of [IEEE INFOCOM'12](http://infocom2012.ieee-infocom.org/), Orlan
 
 ## Education
 
-Ph.D.,June 2017, University of Wisconsin-Madison, USA
+**Ph.D.,June 2017, University of Wisconsin-Madison, USA**
 
 Major: Computer Science
 
 Minor: Electrical & Computer Engineering
 
-M.S., May 2015, University of Wisconsin-Madison, USA
+**M.S., May 2015, University of Wisconsin-Madison, USA**
 
 Major: Computer Science
 
-M.E., May 2012, Tsinghua University, Beijing, China
+**M.E., May 2012, Tsinghua University, Beijing, China**
 
 Major: Computer Science
 
-B.E., July 2009, Xidian University, Xi’an, China
+**B.E., July 2009, Xidian University, Xi’an, China**
 
 Major: Software Engineering
 
