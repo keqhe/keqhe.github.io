@@ -12,7 +12,7 @@ Keqiang He, Weite Qin, Qiwei Zhang, Wenfei Wu, Junjie Yang, Tian Pan, Chengchen 
 In Proceedings of [APNet'17](http://conferences.sigcomm.org/events/apnet2017/), Hong Kong, China, August 2017.
 
 **Improving Datacenter Network Performance via Intelligent Network Edge**<br>
-Keqiang He, University of Wisconsin-Madison, June 2017.
+Keqiang He, PhD Thesis, University of Wisconsin-Madison, June 2017.
 
 **AC/DC TCP: Virtual Congestion Control Enforcement for Datacenter Networks**<br>
 Keqiang He, Eric Rozner, Kanak Agarwal, Yu (Jason) Gu, Wes Felter, John Carter and Aditya Akella.<br>
