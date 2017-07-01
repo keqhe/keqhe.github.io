@@ -7,7 +7,6 @@ I graduated from the Department of Computer Science at the University of Wiscons
 [[Linkedin](https://www.linkedin.com/in/keqiang-he-00837b3a/)]  [[Google Scholar](https://scholar.google.com/citations?user=AdDzBdUAAAAJ&hl=en)] [[Wisc Homepage](http://pages.cs.wisc.edu/~keqhe/)]]  [[Resume]()]
 
 ### Selected Publications
-```
 **Low Latency Software Rate Limiters for Cloud Networks**
 
 Keqiang He, Weite Qin, Qiwei Zhang, Wenfei Wu, Junjie Yang, Tian Pan, Chengchen Hu, Jiao Zhang, Brent Stephens, Aditya Akella and Ying Zhang.
@@ -65,24 +64,19 @@ In Proceedings of IEEE ICDCS'12, Macau, China, June 2012.
 Jindou Fan, Chengchen Hu, Keqiang He, Junchen Jiang and Bin Liu.
 
 In Proceedings of [IEEE INFOCOM'12](http://infocom2012.ieee-infocom.org/), Orlando, FL, March 2012.
-```
-### Education
-```
-**Ph.D.,June 2017, University of Wisconsin-Madison, USA**<br>
-Major: Computer Science
 
+### Education
+**Ph.D.,June 2017, University of Wisconsin-Madison, USA**<br>
+Major: Computer Science<br>
 Minor: Electrical & Computer Engineering
 
-**M.S., May 2015, University of Wisconsin-Madison, USA**
-
+**M.S., May 2015, University of Wisconsin-Madison, USA**<br>
 Major: Computer Science
 
-**M.E., May 2012, Tsinghua University, Beijing, China**
-
+**M.E., May 2012, Tsinghua University, Beijing, China**<br>
 Major: Computer Science
 
-**B.E., July 2009, Xidian University, Xi’an, China**
-
+**B.E., July 2009, Xidian University, Xi’an, China**<br>
 Major: Software Engineering
-```
+
 
