@@ -1,4 +1,4 @@
-## Welcome to Keqiang He's GitHub Pages
+## Welcome to Keqiang He's GitHub Page
 
 I graduated from the Department of Computer Science at the University of Wisconsin-Madison in June, 2017. My advisor was [Prof. Aditya Akella](http://pages.cs.wisc.edu/~akella/). My research areas are computer networks and networked systems.
 
@@ -64,10 +64,24 @@ Jindou Fan, Chengchen Hu, Keqiang He, Junchen Jiang and Bin Liu.
 
 In Proceedings of [IEEE INFOCOM'12](http://infocom2012.ieee-infocom.org/), Orlando, FL, March 2012.
 
-### Jekyll Themes
+## Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keqhe/keqhe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Ph.D.,June 2017, University of Wisconsin-Madison, USA
 
-### Support or Contact
+Major: Computer Science
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Minor: Electrical & Computer Engineering
+
+M.S., May 2015, University of Wisconsin-Madison, USA
+
+Major: Computer Science
+
+M.E., May 2012, Tsinghua University, Beijing, China
+
+Major: Computer Science
+
+B.E., July 2009, Xidian University, Xi’an, China
+
+Major: Software Engineering
+
+
