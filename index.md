@@ -22,6 +22,47 @@ Keqiang He, Eric Rozner, Kanak Agarwal, Yu (Jason) Gu, Wes Felter, John Carter a
 
 In Proceedings of [ACM SIGCOMM'16](http://conferences.sigcomm.org/sigcomm/2016/), Florianopolis, Brazil, August 2016.
 
+**PerfSight: Performance Diagnosis for Software Dataplanes**
+
+Wenfei Wu, Keqiang He and Aditya Akella.
+ 
+In Proceedings of [ACM IMC'15](http://conferences2.sigcomm.org/imc/2015/), Tokyo, Japan, October 2015.
+
+**Presto: Edge-based Load Balancing for Fast Datacenter Networks**
+
+Keqiang He, Eric Rozner, Kanak Agarwal, Wes Felter, John Carter and Aditya Akella.
+
+In Proceedings of [ACM SIGCOMM'15](http://conferences.sigcomm.org/sigcomm/2015/), London, UK, August 2015. 
+
+**Latency in Software Defined Networks: Measurements and Mitigation Techniques**
+
+Keqiang He, Junaid Khalid, Aaron Gember-Jacobson, Sourav Das, Chaithan Prakash, Aditya Akella, Li Erran Li and Marina Thottan.
+
+In Proceedings of [ACM SIGMETRICS'15](https://www.sigmetrics.org/sigmetrics2015/) (extended abstract), Portland, OR, June 2015.
+
+**Measuring Control Plane Latency in SDN-enabled Switches**
+
+Keqiang He, Junaid Khalid, Aaron Gember-Jacobson, Sourav Das, Chaithan Prakash, Aditya Akella, Li Erran Li and Marina Thottan.
+
+In Proceedings of [ACM SIGCOMM Symposium on SDN Research (SOSR)](http://opennetsummit.org/2015-archive/sosr/), Santa Clara, CA, June 2015.
+
+**Next Stop, the Cloud: Understanding Modern Web Service Deployment in EC2 and Azure**
+
+Keqiang He, Alexis Fisher, Liang Wang, Aaron Gember, Aditya Akella and Thomas Ristenpart.
+
+In Proceedings of [ACM IMC'13](http://conferences.sigcomm.org/imc/2013/), Barcelona, Spain, October 2013.
+
+**Scalable Name Lookup in NDN Using Effective Name Component Encoding**
+
+Yi Wang, Keqiang He, Huichen Dai, Wei Meng, Junchen Jiang, Bin Liu and Yan Chen.
+
+In Proceedings of IEEE ICDCS'12, Macau, China, June 2012.
+
+**Reducing Power of Traffic Manager in Routers via Dynamic On/Off-chip Scheduling**
+
+Jindou Fan, Chengchen Hu, Keqiang He, Junchen Jiang and Bin Liu.
+
+In Proceedings of [IEEE INFOCOM'12](http://infocom2012.ieee-infocom.org/), Orlando, FL, March 2012.
 
 ### Jekyll Themes
 
