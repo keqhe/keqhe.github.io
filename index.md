@@ -9,7 +9,7 @@ I graduated from the Department of Computer Science at the University of Wiscons
 
 **Low Latency Software Rate Limiters for Cloud Networks**
 
-*Keqiang He, Weite Qin, Qiwei Zhang, Wenfei Wu, Junjie Yang, Tian Pan, Chengchen Hu, Jiao Zhang, Brent Stephens, Aditya Akella and Ying Zhang.
+Keqiang He, Weite Qin, Qiwei Zhang, Wenfei Wu, Junjie Yang, Tian Pan, Chengchen Hu, Jiao Zhang, Brent Stephens, Aditya Akella and Ying Zhang.
 
 In Proceedings of [APNet'17](http://conferences.sigcomm.org/events/apnet2017/), Hong Kong, China, August 2017.
 
