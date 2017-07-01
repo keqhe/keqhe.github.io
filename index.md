@@ -1,12 +1,13 @@
 ## Keqiang He
-![Image of Me Fishing](https://github.com/keqhe/keqhe.github.io/blob/master/me_fishing.JPG)
+
+![Fishing](https://github.com/keqhe/keqhe.github.io/blob/master/me_fishing.JPG)
 
 I graduated from the Department of Computer Science at the University of Wisconsin-Madison in June, 2017. My advisor was [Prof. Aditya Akella](http://pages.cs.wisc.edu/~akella/). My research areas are computer networks and networked systems.
 
 [[Linkedin](https://www.linkedin.com/in/keqiang-he-00837b3a/)]  [[Google Scholar](https://scholar.google.com/citations?user=AdDzBdUAAAAJ&hl=en)] [[Wisc Homepage](http://pages.cs.wisc.edu/~keqhe/)]]  [[Resume]()]
 
 ### Selected Publications
-
+```
 **Low Latency Software Rate Limiters for Cloud Networks**
 
 Keqiang He, Weite Qin, Qiwei Zhang, Wenfei Wu, Junjie Yang, Tian Pan, Chengchen Hu, Jiao Zhang, Brent Stephens, Aditya Akella and Ying Zhang.
@@ -64,11 +65,10 @@ In Proceedings of IEEE ICDCS'12, Macau, China, June 2012.
 Jindou Fan, Chengchen Hu, Keqiang He, Junchen Jiang and Bin Liu.
 
 In Proceedings of [IEEE INFOCOM'12](http://infocom2012.ieee-infocom.org/), Orlando, FL, March 2012.
-
+```
 ### Education
-
-**Ph.D.,June 2017, University of Wisconsin-Madison, USA**
-
+```
+**Ph.D.,June 2017, University of Wisconsin-Madison, USA**<br>
 Major: Computer Science
 
 Minor: Electrical & Computer Engineering
@@ -84,5 +84,5 @@ Major: Computer Science
 **B.E., July 2009, Xidian University, Xi’an, China**
 
 Major: Software Engineering
-
+```
 
