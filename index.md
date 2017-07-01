@@ -1,6 +1,5 @@
 ## Keqiang He
-![Image of Me Fishing]
-(https://github.com/keqhe/keqhe.github.io/blob/master/IMG_2859.JPG)
+![Image of Me Fishing](https://github.com/keqhe/keqhe.github.io/blob/master/IMG_2859.JPG)
 
 I graduated from the Department of Computer Science at the University of Wisconsin-Madison in June, 2017. My advisor was [Prof. Aditya Akella](http://pages.cs.wisc.edu/~akella/). My research areas are computer networks and networked systems.
 
