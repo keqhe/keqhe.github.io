@@ -64,7 +64,7 @@ Jindou Fan, Chengchen Hu, Keqiang He, Junchen Jiang and Bin Liu.
 
 In Proceedings of [IEEE INFOCOM'12](http://infocom2012.ieee-infocom.org/), Orlando, FL, March 2012.
 
-## Education
+### Education
 
 **Ph.D.,June 2017, University of Wisconsin-Madison, USA**
 
