@@ -2,7 +2,7 @@
 
 <img src="me_fishing.JPG" alt="hi" class="inline"/>
 
-I graduated from the Department of Computer Science at the University of Wisconsin-Madison in June, 2017. My advisor was [Prof. Aditya Akella](http://pages.cs.wisc.edu/~akella/). My research areas are computer networks and networked systems. I will join Google as a software engineer.
+I am at Google now. I graduated from the Department of Computer Science at the University of Wisconsin-Madison in June, 2017. My advisor was [Prof. Aditya Akella](http://pages.cs.wisc.edu/~akella/). My research areas are computer networks and networked systems. 
 
 [[Linkedin](https://www.linkedin.com/in/keqiang-he-00837b3a/)]  [[Google Scholar](https://scholar.google.com/citations?user=AdDzBdUAAAAJ&hl=en)] [[Wisc Homepage](http://pages.cs.wisc.edu/~keqhe/)]  [[Resume]()]
 
